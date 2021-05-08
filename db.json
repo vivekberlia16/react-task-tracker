@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Morning walk",
+      "day": "8th May 2020 at 8am",
+      "remainder": false
+    },
+    {
+      "id": 3,
+      "text": "Book Club Meeting",
+      "day": "9th May 2020 at 2pm",
+      "remainder": true
+    },
+    {
+      "text": "Test task",
+      "day": "Monday",
+      "remainder": true,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
